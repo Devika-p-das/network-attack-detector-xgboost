@@ -1,1 +1,1 @@
-# network-attack-detector-xgboost
+# network-attack-detector
